@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/plugins/view_mapem" >
+        <file>icon.png</file>
+        <file>styles/intersections/connectsTo.qml</file>
+        <file>styles/intersections/GenericLane.qml</file>
+        <file>styles/intersections/nodeList.qml</file>
+        <file>styles/intersections/refPoint.qml</file>
+        <file>styles/roadSegments/connectsTo.qml</file>
+        <file>styles/roadSegments/GenericLane.qml</file>
+        <file>styles/roadSegments/nodeList.qml</file>
+        <file>styles/roadSegments/refPoint.qml</file>
+    </qresource>
+</RCC>
